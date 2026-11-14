@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Free TV</string>
+    <string name="all_channels">All channels</string>
+    <string name="loading">Loading playlist…</string>
+    <string name="load_failed">Could not load the playlist. Check the internet connection and reopen the app.</string>
+    <string name="status_live">%1$d channels · %2$d groups</string>
+    <string name="status_cached">%1$d channels · %2$d groups (offline copy)</string>
+    <string name="hint">OK: play  ·  While watching: ▲ ▼ change channel, OK pause, Back return to list</string>
+    <string name="cannot_play">Can\'t play %1$s\n(%2$s). Press ▲ ▼ for another channel or Back.</string>
+    <string name="external_tag">opens app</string>
+    <string name="no_app_for">No app installed that can open %1$s</string>
+</resources>
